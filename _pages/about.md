@@ -10,7 +10,8 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
-    <p>Sam Nunn School of International Affairs, Georgia Tech</p>
+    <p>Georgia Institute of Technology</p>
+    <p>Sam Nunn School of International Affairs</p>
     <p>781 Marietta St NW</p>
     <p>Atlanta, GA 30332</p>
 
@@ -30,9 +31,18 @@ latest_posts:
 
 I work at the boundary where **computer science meets international security**. I translate between formal/technical debates (quantum, cloud, AI, security properties, internet technologies) and policy realities (competition, sovereignty, governance, national security). Empirically, I map who builds emerging critical infrastructure — and what that implies for power, control, and risk.
 
-**Now:** quantum security “in the wild”; **Qubits & Conflicts** (my book project on the geopolitics of the quantum internet); and network methods for tracing emerging-tech ecosystems.
+My research programme follows emerging infrastructure from design to geopolitics:
 
-**Keywords:** Quantum • Infrastructure • Security Governance
+- **Quantum security, as it actually works**: threat models, attack surfaces, failure modes, and the security claims that survive contact with reality.  
+- **The quantum internet and control**: privacy-enhancing promises alongside the real institutional builders: cloud platforms, states, and standards ecosystems.  
+- **Competing over the future**: how states use emerging technologies as instruments of status, sovereignty, and strategic narrative.
+
+I back these arguments with **network-based empirical methods** (ecosystem mapping, institutional networks, inferential models) and policy-facing outputs that make technical dynamics legible to decision-makers.
+
+**Book project:** *Qubits & Conflicts* (working title) — The Geopolitics of the Quantum Internet (**qubitsandconflicts.com**).  
+**Teaching (Spring 2026):** *INTA4050: International Affairs and Technology Policy Making.* (Georgia Tech).  
+**Contact:** email / office details forthcoming.
+
 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
