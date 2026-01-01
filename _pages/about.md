@@ -6,7 +6,7 @@ subtitle: <a href='#'>Assistant Professor of Digital Systems and International A
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ProfileJJ.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
