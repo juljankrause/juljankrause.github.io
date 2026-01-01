@@ -9,13 +9,13 @@ profile:
   image: ProfileJJ_enhanced.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>[Office number tba]</p>
+    <p>Office number tba</p>
     <p>Georgia Institute of Technology,</p>
     <p>Sam Nunn School of International Affairs</p>
     <p>781 Marietta St NW</p>
     <p>Atlanta, GA 30332</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -39,7 +39,7 @@ My research programme follows emerging infrastructure from design to geopolitics
 
 I back these arguments with **network-based empirical methods** (ecosystem mapping, institutional networks, inferential models) and policy-facing outputs that make technical dynamics legible to decision-makers.
 
-**Book project:** *Qubits & Conflicts* (working title) — The Geopolitics of the Quantum Internet (**qubitsandconflicts.com**).  
+**Book project:** *Qubits & Conflicts* — The Geopolitics of the Quantum Internet (working title).  
 **Teaching (Spring 2026):** *INTA4050: International Affairs and Technology Policy Making.* (Georgia Tech).  
 **Contact:** email / office details forthcoming.
 
