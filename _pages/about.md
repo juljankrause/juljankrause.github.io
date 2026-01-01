@@ -6,11 +6,11 @@ subtitle: <a href='#'>Assistant Professor of Digital Systems and International A
 
 profile:
   align: right
-  image: ProfileJJ.jpg
+  image: ProfileJJ_enhanced.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>Georgia Institute of Technology</p>
+    <p>[Office number tba]</p>
+    <p>Georgia Institute of Technology,</p>
     <p>Sam Nunn School of International Affairs</p>
     <p>781 Marietta St NW</p>
     <p>Atlanta, GA 30332</p>
