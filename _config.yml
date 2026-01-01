@@ -6,8 +6,8 @@ title: Juljan Krause # the website title (if blank, full name will be used inste
 first_name: Juljan
 middle_name: ""
 last_name: Krause
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: # >
+  # You can even add a little note about which of these is the best way to reach you.
 description: Assistant Professor of Digital Systems and International Affairs, Georgia Tech (Sam Nunn School)
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
