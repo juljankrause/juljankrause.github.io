@@ -6,6 +6,8 @@ subtitle: |
   <a href="https://inta.gatech.edu/people/faculty">Assistant Professor of Digital Systems and International Affairs,</br>
   Sam Nunn School of International Affairs,</br>
   Georgia Institute of Technology.</a>
+nav: true
+nav_order: 1
 
 profile:
   align: right
