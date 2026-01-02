@@ -2,18 +2,24 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Assistant Professor of Digital Systems and International Affairs, Georgia Tech (Sam Nunn School)</a>. 
+subtitle: <a href='#'>Assistant Professor of Digital Systems and International Affairs,<br> 
+Georgia Institute of Technology<br>
+Sam Nunn School of International Affairs</a>. 
 
 profile:
   align: right
   image: ProfileJJ_enhanced.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Office number tba</p>
     <p>Georgia Institute of Technology,</p>
     <p>Sam Nunn School of International Affairs</p>
     <p>781 Marietta St NW</p>
     <p>Atlanta, GA 30332</p>
+  address: |
+    <i class="fas fa-building"></i> Sam Nunn School of International Affairs<br>
+    Georgia Institute of Technology<br>
+    Atlanta, GA
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
