@@ -2,9 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Assistant Professor of Digital Systems and International Affairs,<br> 
-Georgia Institute of Technology<br>
-Sam Nunn School of International Affairs</a>. 
+subtitle: <a href='#'>Assistant Professor of Digital Systems and International Affairs</a>,<br> 
+Sam Nunn School of International Affairs<br>
+Georgia Institute of Technology.
 
 profile:
   align: right
