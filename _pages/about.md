@@ -3,21 +3,21 @@ layout: about
 title: About
 permalink: /
 subtitle: |
-  <a href="https://inta.gatech.edu/people/faculty">Assistant Professor of Digital Systems and International Affairs,<br>
-  Sam Nunn School of International Affairs,<br>
+  <a href="https://inta.gatech.edu/people/faculty">Assistant Professor of Digital Systems and International Affairs,</br>
+  Sam Nunn School of International Affairs,</br>
   Georgia Institute of Technology.</a>
 
 profile:
   align: right
   image: ProfileJJ_enhanced.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
+  # more_info: >
     <p>Office number tba</p>
     <p>Georgia Institute of Technology,</p>
     <p>Sam Nunn School of International Affairs</p>
     <p>781 Marietta St NW</p>
     <p>Atlanta, GA 30332</p>
-  address: |
+  more_info: |
     <i class="fas fa-building"></i> Sam Nunn School of International Affairs
     Georgia Institute of Technology
     Atlanta, GA
