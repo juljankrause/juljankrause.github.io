@@ -18,8 +18,8 @@ profile:
     <p>781 Marietta St NW</p>
     <p>Atlanta, GA 30332</p>
   address: |
-    <i class="fas fa-building"></i> Sam Nunn School of International Affairs<br>
-    Georgia Institute of Technology<br>
+    <i class="fas fa-building"></i> Sam Nunn School of International Affairs
+    Georgia Institute of Technology
     Atlanta, GA
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
