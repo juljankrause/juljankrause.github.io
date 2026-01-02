@@ -36,7 +36,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I work at the boundary where **computer science meets international security**. I translate between formal/technical debates (quantum, cloud, AI, security properties, internet technologies) and policy realities (competition, sovereignty, governance, national security). Empirically, I map who builds emerging critical infrastructure — and what that implies for power, control, and risk.
+I work at the boundary where **computer science meets international security**. I translate between formal/technical debates (quantum, cloud, AI, security properties, internet technologies) and policy realities (competition, sovereignty, governance, national security). Empirically, I map who builds emerging critical infrastructure, and what that implies for power, control, and risk.
 
 My research programme follows emerging infrastructure from design to geopolitics:
 
