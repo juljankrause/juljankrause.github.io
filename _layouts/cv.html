@@ -6,28 +6,90 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">CV</h3>
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h4>Education</h4>
-      </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv.education %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
-        {% endfor %}
-      </div>
+    <h3 class="fw-bold border-bottom pb-3 mb-4">CV</h3>
+
+    <div class="mb-5">
+      <p>
+        My work sits at the intersection of digital infrastructure, international affairs, and technology governance. The CV below offers a curated overview of academic appointments, policy experience, teaching, awards, and service.
+      </p>
+      <p>
+        <a href="{{ '/assets/Krause_Juljan_CV_GeorgiaTech.pdf' | relative_url }}" target="_blank" rel="noopener">
+          Download full CV (PDF)
+        </a>
+      </p>
     </div>
+
     <div class="row g-5 mb-5">
-      <div class="col-md-2">
+      <div class="col-md-3">
         <h4>Academic Experience</h4>
       </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv.academic-experience %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
+      <div class="col-md-9">
+        {% for section in site.data.cv["academic-experience"] %}
+          <p class="fw-bold mb-1">{{ section.title }}</p>
+          <p class="mb-4">{{ section.description }}</p>
         {% endfor %}
       </div>
     </div>
+
+    <div class="row g-5 mb-5">
+      <div class="col-md-3">
+        <h4>Policy and Professional Experience</h4>
+      </div>
+      <div class="col-md-9">
+        {% for section in site.data.cv["policy-and-professional-experience"] %}
+          <p class="fw-bold mb-1">{{ section.title }}</p>
+          <p class="mb-4">{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="row g-5 mb-5">
+      <div class="col-md-3">
+        <h4>Education</h4>
+      </div>
+      <div class="col-md-9">
+        {% for section in site.data.cv["education"] %}
+          <p class="fw-bold mb-1">{{ section.title }}</p>
+          <p class="mb-4">{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="row g-5 mb-5">
+      <div class="col-md-3">
+        <h4>Selected Teaching</h4>
+      </div>
+      <div class="col-md-9">
+        {% for section in site.data.cv["selected-teaching"] %}
+          <p class="fw-bold mb-1">{{ section.title }}</p>
+          <p class="mb-4">{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="row g-5 mb-5">
+      <div class="col-md-3">
+        <h4>Selected Awards</h4>
+      </div>
+      <div class="col-md-9">
+        {% for section in site.data.cv["selected-awards"] %}
+          <p class="fw-bold mb-1">{{ section.title }}</p>
+          <p class="mb-4">{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="row g-5 mb-5">
+      <div class="col-md-3">
+        <h4>Service and Editorial Roles</h4>
+      </div>
+      <div class="col-md-9">
+        {% for section in site.data.cv["service-and-editorial-roles"] %}
+          <p class="fw-bold mb-1">{{ section.title }}</p>
+          <p class="mb-4">{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
   </div>
 </div>

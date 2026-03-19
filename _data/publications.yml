@@ -1,10 +1,131 @@
-featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+working_papers:
+- year: 2026
+  authors: Juljan Krause
+  title: 'Salt Typhoon and the Limits of “Quantum Security” Promises'
+  citation: 'Juljan Krause, “Salt Typhoon and the Limits of ‘Quantum Security’ Promises.” Minor revisions.'
 
-index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+- year: 2026
+  authors: Juljan Krause and Spenser A. Warren and Kimberly Peh
+  title: 'Technological Capacity, Perceptions, and the Strategic Impact of Emerging Technology'
+  citation: 'Juljan Krause, Spenser A. Warren, and Kimberly Peh, “Technological Capacity, Perceptions, and the Strategic Impact of Emerging Technology.” Under review.'
+
+- year: 2026
+  authors: Juljan Krause and Nicolas Wittstock
+  title: 'Varieties of Technological Sovereignty?'
+  citation: 'Juljan Krause & Nicolas Wittstock, “Varieties of Technological Sovereignty?.” In progress.'
+
+- year: 2026
+  authors: Juljan Krause
+  title: 'From Cloud to Qubit: How Cloud Service Providers Shape the Knowledge Foundations of the Quantum Internet'
+  citation: 'Juljan Krause, “From Cloud to Qubit: How Cloud Service Providers Shape the Knowledge Foundations of the Quantum Internet.” In progress.'
+
+- year: 2026
+  authors: Juljan Krause
+  title: 'Anticipatory Governance and Capacity Signalling in National Quantum Strategies'
+  citation: 'Juljan Krause, “Anticipatory Governance and Capacity Signalling in National Quantum Strategies.” In progress.'
+
+- year: 2026
+  authors: Juljan Krause
+  title: 'Modelling Quantum Advantage in Large-Scale APT-Centric Infrastructure Attacks'
+  citation: 'Juljan Krause, “Modelling Quantum Advantage in Large-Scale APT-Centric Infrastructure Attacks.” In progress.'
+
+journal_articles:
+- year: 2012
+  authors: Juljan Krause
+  title: (Post)Enlightened Science
+  citation: 'Juljan Krause, “(Post)Enlightened Science,” <em>Science as Culture</em> 21, no. 1 (2012): 141&ndash;149.'
+  doi: 10.1080/09505431.2010.512361
+- year: 2012
+  authors: Juljan Krause
+  title: 'Collective Intentionality and the (Re)Production of Social Norms: The Scope for a Critical Social Science'
+  citation: 'Juljan Krause, “Collective Intentionality and the (Re)Production of Social Norms: The Scope for a Critical Social Science,” <em>Philosophy of the Social Sciences</em> 42, no. 3 (2012): 323&ndash;355.'
+  doi: 10.1177/0048393111399100
+book_chapters:
+- year: 2026
+  authors: Juljan Krause
+  title: 'Aesthetics of Computer Science'
+  citation: 'Juljan Krause, “Aesthetics of Computer Science,” in <em>Aesthetics as a Companion Discipline</em>, edited by Zoltan Somhegyi and Max Ryynänen (New York: Bloomsbury, 2026 [forthcoming]).'
+  doi: TBA
+- year: 2025
+  authors: Juljan Krause
+  title: 'Assessing Emerging Capabilities with Patent Data: U.S.-China Competition in Quantum Technologies'
+  citation: 'Juljan Krause, “Assessing Emerging Capabilities with Patent Data: U.S.-China Competition in Quantum Technologies,” in <em>In Search of Strategic Advantage: Understanding the Landscape of Technology Competition</em>, ed. Kimberly Peh and Michael Albertson (Livermore, CA: Lawrence Livermore National Laboratory, 2025), 86&ndash;109.'
+  url: https://cgsr.llnl.gov/sites/cgsr/files/2025-11/CGSR-Occasional-Paper-Technology-Competition_web_final.pdf
+  link_label: PDF
+- year: 2024
+  authors: Matthias Benzer and Juljan Krause
+  title: 'Adorno’s Sociological Project'
+  citation: 'Matthias Benzer and Juljan Krause, “Adorno’s Sociological Project,” in <em>The Oxford Handbook of Adorno</em>, ed. Henry Pickford and Martin Shuster (Oxford: Oxford University Press, 2024).'
+  doi: 10.1093/oxfordhb/9780190932527.013.33
+- year: 2020
+  authors: Matthias Benzer and Juljan Krause
+  title: 'Exposing Antagonisms: Adorno on the Possibilities of Sociology'
+  citation: 'Matthias Benzer and Juljan Krause, “Exposing Antagonisms: Adorno on the Possibilities of Sociology,” in <em>A Companion to Adorno</em> (Hoboken, NJ: Wiley Blackwell, 2020), 287&ndash;301.'
+  doi: 10.1002/9781119146940.ch18
+- year: 2016
+  authors: Juljan Krause and Markus Scholz
+  title: 'Erosion of Sovereign Control: Deliberation, ‘We-Reasoning,’ and the Legitimacy of Norms and Standards in a Globalized World'
+  citation: 'Juljan Krause and Markus Scholz, “Erosion of Sovereign Control: Deliberation, ‘We-Reasoning,’ and the Legitimacy of Norms and Standards in a Globalized World,” in <em>Understanding Ethics and Responsibilities in a Globalizing World</em>, ed. Maria Cecilia Coutinho de Arruda and Boleslaw Rok (Cham: Springer International Publishing, 2016), 83&ndash;101.'
+  doi: 10.1007/978-3-319-23081-8_5
+policy_reports:
+- year: 2024
+  authors: Juljan Krause
+  title: 'The Quantum Race: U.S.-Chinese Competition for Leadership in Quantum Technologies'
+  citation: 'Juljan Krause, <em>The Quantum Race: U.S.-Chinese Competition for Leadership in Quantum Technologies</em> (Washington, DC: UC Institute on Global Conflict and Cooperation, 2024).'
+  url: https://ucigcc.org/wp-content/uploads/2024/02/Krause-Quantum-Race-3.4.24.pdf
+  link_label: PDF
+- year: 2023
+  authors: Juljan Krause et al.
+  title: DRCF Quantum Technologies Insights Paper
+  citation: 'Juljan Krause et al., <em>DRCF Quantum Technologies Insights Paper</em> (London: Digital Regulation Cooperation Forum, 2023).'
+  url: https://www.drcf.org.uk/publications/papers/quantum-technologies-insights-paper
+  link_label: Link
+- year: 2021
+  authors: Juljan Krause
+  title: 'Trusted Autonomous Systems in Defence: A Policy Landscape Review'
+  citation: 'Juljan Krause, <em>Trusted Autonomous Systems in Defence: A Policy Landscape Review</em> (London: King&rsquo;s College London, 2021).'
+  doi: 10.18742/pub01-063
+- year: 2020
+  authors: Juljan Krause
+  title: Security Implications of Novel Quantum Information Technologies
+  citation: 'Juljan Krause, <em>Security Implications of Novel Quantum Information Technologies</em> (Brussels: Heinrich B&ouml;ll Foundation Brussels, 2020).'
+  url: https://eu.boell.org/en/2020/06/24/security-implications-novel-quantum-information-technologies
+  link_label: Link
+- year: 2020
+  authors: Juljan Krause
+  title: Sicherheitspolitische Herausforderungen neuer Quanten-Informationstechnologien
+  citation: 'Juljan Krause, <em>Sicherheitspolitische Herausforderungen neuer Quanten-Informationstechnologien</em> (Berlin: Heinrich B&ouml;ll Stiftung, 2020).'
+  url: https://www.boell.de/de/2020/06/15/sicherheitspolitische-herausforderungen-neuer-quanten-informationstechnologien
+  link_label: Link
+commentary_and_essays:
+- year: 2024
+  authors: Juljan Krause
+  title: The UN has passed a resolution to make AI safer. It should do the same for quantum
+  citation: Juljan Krause, “The UN has passed a resolution to make AI safer. It should do the same for quantum,” <em>Hertie School</em>, 9 September 2024.
+  url: https://www.hertie-school.org/en/news/detail/content/the-un-has-passed-a-resolution-to-make-ai-safer-it-should-do-the-same-for-quantum
+  link_label: Link
+- year: 2024
+  authors: Juljan Krause
+  title: Generative AI Makes Demonstrating Quantum Advantage Harder -- For Quantum Computing, That’s Actually Good News.
+  citation: Juljan Krause, “Generative AI Makes Demonstrating Quantum Advantage Harder &ndash; For Quantum Computing, That&rsquo;s Actually Good News,” <em>The Quantum Insider</em>, 29 March 2024.
+  url: https://thequantuminsider.com/2024/03/29/guest-post-generative-ai-makes-demonstrating-quantum-advantage-harder-for-quantum-computing-thats-actually-good-news/
+  link_label: Link
+- year: 2021
+  authors: Juljan Krause
+  title: 'The Quantum Internet: A Network for All?'
+  citation: 'Juljan Krause, “The Quantum Internet: A Network for All?” <em>IPPI</em>, 11 May 2021.'
+  url: https://www.ippi.org.il/the-quantum-internet-a-network-for-all/
+  link_label: Link
+- year: 2021
+  authors: Juljan Krause
+  title: 'The quantum threat: why we need regulation and transparency'
+  citation: 'Juljan Krause, “The quantum threat: why we need regulation and transparency,” <em>about:intel</em>, 8 February 2021.'
+  url: https://aboutintel.eu/quantum-threat/
+  link_label: Link
+other_publications:
+- year: 2023
+  authors: Juljan Krause
+  title: 'Shaping the Quantum Internet: Evidence of US-Chinese Strategic Competition over Quantum Technologies from Interviews and Patent Data ERGMs'
+  citation: 'Juljan Krause, <em>Shaping the Quantum Internet: Evidence of US-Chinese Strategic Competition over Quantum Technologies from Interviews and Patent Data ERGMs</em> (PhD thesis, University of Southampton, 2023).'
+  url: https://eprints.soton.ac.uk/479033/
+  link_label: Repository

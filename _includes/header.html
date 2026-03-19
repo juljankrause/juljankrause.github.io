@@ -1,15 +1,53 @@
-<header class="d-flex flex-column flex-md-row align-items-center pb-3 mb-5 border-bottom">
+<header class="site-header d-flex flex-column flex-md-row align-items-center pb-3 mb-5 border-bottom">
   <div>
     <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
       <span class="fs-4 fw-bold">{{ site.title }}</span>
     </a>
     <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
-      <span>{{ site.description }}</span>
+      <p class="brand-tagline">{{ site.description }}</p>
     </a>
   </div>
-  <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+
+  <nav class="site-nav d-inline-flex mt-2 mt-md-0 ms-md-auto align-items-center flex-wrap">
     {% for item in site.data.settings.menu %}
-      <a class="me-3 py-2 text-decoration-none" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
+      <a class="me-3 py-2 text-decoration-none nav-link-custom" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
     {% endfor %}
+
+    <button
+      id="theme-toggle"
+      class="theme-toggle ms-md-2"
+      type="button"
+      aria-label="Toggle dark mode"
+      aria-pressed="false"
+      title="Toggle dark mode">
+      <span class="theme-icon theme-icon-light" aria-hidden="true">☼</span>
+      <span class="theme-icon theme-icon-dark" aria-hidden="true">☾</span>
+    </button>
   </nav>
 </header>
+
+<script>
+  (function () {
+    var root = document.documentElement;
+    var button = document.getElementById('theme-toggle');
+
+    if (!button) return;
+
+    function syncButton(theme) {
+      var isDark = theme === 'dark';
+      button.setAttribute('aria-pressed', isDark ? 'true' : 'false');
+      button.setAttribute('aria-label', isDark ? 'Switch to light mode' : 'Switch to dark mode');
+      button.setAttribute('title', isDark ? 'Switch to light mode' : 'Switch to dark mode');
+    }
+
+    syncButton(root.getAttribute('data-theme') || 'light');
+
+    button.addEventListener('click', function () {
+      var current = root.getAttribute('data-theme') || 'light';
+      var next = current === 'dark' ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+      syncButton(next);
+    });
+  })();
+</script>

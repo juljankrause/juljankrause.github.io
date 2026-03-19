@@ -1,9 +1,56 @@
-<footer class="pt-5 my-5 text-muted border-top">
+<!-- <footer class="pt-5 my-5 text-muted border-top">
   <div class="row">
     <div class="col-md-6 text-end social-media-icons">
       {% for item in site.data.settings.social %}
-        <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a>
+      <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a>
       {% endfor %}
     </div>
+  </div>
+</footer> -->
+
+<!-- <footer class="pt-5 my-5 text-muted border-top">
+  <div class="row">
+    <div class="col-12">
+      <div class="social-media-icons d-flex justify-content-center align-items-center gap-3">
+        {% for item in site.data.settings.social %}
+          <a href="{{ item.link }}" class="social-icon" aria-label="{{ item.icon }}">
+            {% if item.icon == "google-scholar" %}
+              <i class="ai ai-google-scholar"></i>
+            {% elsif item.icon == "bluesky-svg" %}
+              <img src="{{ site.github.url }}/assets/img/icons/bluesky.svg" alt="Bluesky">
+            {% else %}
+              <i class="fab fa-{{ item.icon }}"></i>
+            {% endif %}
+          </a>
+        {% endfor %}
+      </div>
+      <p class="footer-address">
+  Sam Nunn School | Georgia Tech | 781 Marietta St NW | Atlanta GA, 30332 | jkrause [ at ] gatech [.] edu
+</p>
+    </div>
+  </div>
+</footer> -->
+
+<footer class="pt-5 my-5 text-muted border-top">
+  <div class="footer-content">
+    <div class="social-media-icons d-flex justify-content-center align-items-center gap-3">
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" class="social-icon" aria-label="{{ item.icon }}">
+          {% if item.icon == "google-scholar" %}
+            <i class="ai ai-google-scholar"></i>
+          {% elsif item.icon == "email" %}
+            <i class="fas fa-envelope"></i>  
+          {% elsif item.icon == "bluesky-svg" %}
+            <img src="{{ site.github.url }}/assets/img/icons/bluesky.svg" alt="Bluesky">
+          {% else %}
+            <i class="fab fa-{{ item.icon }}"></i>
+          {% endif %}
+        </a>
+      {% endfor %}
+    </div>
+
+    <p class="footer-address">
+      Sam Nunn School | Georgia Tech | 781 Marietta St NW | Atlanta GA, 30332 
+    </p>
   </div>
 </footer>

@@ -1,25 +1,29 @@
 menu:
-- {name: 'people', url: '/people'}
-- {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+- {name: 'About', url: '/about'}
+- {name: 'Research', url: '/research'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'Courses', url: '/courses'}
+- {name: 'CV', url: '/cv'}
+- {name: 'Blog', url: '/blog'}
+# - {name: 'Contact', url: '/contact'}
 
-people:
+Research:
 - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
 - {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
-courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
+Courses:
+- {name: 'INTA 4050: International Affairs & Technology Policy Making', url: 'https://juljankrause.github.io/courses/INTA4050'}
 - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'email', link: 'mailto:jkrause@gatech.edu'}
+- {icon: 'github', link: 'https://github.com/juljankrause'}
+- {icon: 'orcid', link: 'https://orcid.org/0000-0002-1956-6720'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=nQvdnL4AAAAJ&hl=en'}
+- {icon: 'bluesky-svg', link: 'https://bsky.app/profile/juljan.bsky.social'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/juljan-krause-a3172a191/'}
 
-contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+Contacts:
+- {name: 'Dr. Juljan Krause', title: 'Assistant Professor', department: 'Sam Nunn School of International Affairs', institution: 'Georgia Institute of Technology', institution_address: '781 Marietta Street NW, Atlanta GA 30332', phone: '(+1) 404.894.3195', email: 'jkrause@gatech.edu', office: 'Habersham (INTA Wing) 315', image: 'assets/img/visit-tech.png'}

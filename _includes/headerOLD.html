@@ -1,0 +1,36 @@
+<header class="d-flex flex-column flex-md-row align-items-center pb-3 mb-5 border-bottom">
+  <div>
+    <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
+      <span class="fs-4 fw-bold">{{ site.title }}</span>
+    </a>
+    <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
+       <p class="brand-tagline">{{ site.description }}</p>
+    </a>
+  </div>
+  <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+    {% for item in site.data.settings.menu %}
+      <a class="me-3 py-2 text-decoration-none" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
+    {% endfor %}
+  </nav>
+</header>
+
+<!-- <header class="pt-4 pb-3 border-bottom">
+  <div class="row align-items-start">
+    <div class="col-md-6">
+      <h1 class="site-title mb-1">
+        <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+      </h1>
+      <p class="site-description mb-0">{{ site.description }}</p>
+    </div>
+
+    <div class="col-md-6">
+      <nav class="site-nav d-flex justify-content-md-end justify-content-start align-items-start">
+        {% for item in site.data.settings.menu %}
+          <a href="{{ item.url | relative_url }}" class="ms-md-3 me-3 me-md-0 nav-link-custom">
+            {{ item.name }}
+          </a>
+        {% endfor %}
+      </nav>
+    </div>
+  </div>
+</header> -->
