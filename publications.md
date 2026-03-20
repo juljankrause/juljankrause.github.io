@@ -21,7 +21,7 @@ My publications span academic scholarship, policy analysis, and public-facing co
 </div>
 
 <section id="working-papers" class="research-block">
-  <h2><span class="research-marker">1</span> Working Papers</h2>
+  <h2><span class="research-marker">1</span> Work in Progress</h2>
   {% if site.data.publications.working_papers and site.data.publications.working_papers.size > 0 %}
   <ol class="publication-list">
     {% for pub in site.data.publications.working_papers %}
