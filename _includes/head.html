@@ -5,12 +5,9 @@
   <title>{{ page.title }} | {{ site.title }}</title>
 
   <script>
-    (function () {
-      var storedTheme = localStorage.getItem('theme');
-      var systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-      var theme = storedTheme || (systemPrefersDark ? 'dark' : 'light');
-      document.documentElement.setAttribute('data-theme', theme);
-    })();
+  (function () {
+  document.documentElement.setAttribute('data-theme', 'light');
+  })();
   </script>
 
   <link rel="stylesheet" href="{{ '/assets/libs/bootstrap/bootstrap.min.css' | relative_url }}">
