@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 <p>
-My publications span academic scholarship, policy analysis, and public-facing commentary across emerging technology, security, infrastructure, and philosophy of (the social) science(s). The mix reflects a career spent moving between research, government, and the private sector and a conviction that the most consequential questions often sit in the gap between technical and policy communities, often not fully visible to neither but affecting both.
+My publications span academic scholarship, policy analysis, and public-facing commentary across emerging technology, security, infrastructure, and philosophy of (the social) science(s). The mix reflects a career spent moving between research, government, and the private sector and a conviction that the most consequential questions often sit in the gap between technical and policy communities, often not fully visible to either but affecting both.
 </p>
 
 <div class="research-nav">
