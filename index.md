@@ -11,7 +11,7 @@ title: Home
   </p>
 
   <p>
-    My research sits at the intersection of international security, political economy, and computer science, with a particular focus on the geopolitics of quantum and cloud infrastructures, cybersecurity, and strategic competition.
+    My research sits at the intersection of international security, critical infrastructure policy, and computer science, with a particular focus on the geopolitics of quantum and cloud infrastructures, cybersecurity, and strategic competition.
   </p>
 
   <p>
