@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="homepage-intro">
-  <img src="{{ '/assets/img/ChatGPT_alt_front.png' | relative_url }}" alt="Juljan Krause" class="headshot-right">
+  <img src="{{ '/assets/img/Warm_alt_front.png' | relative_url }}" alt="Juljan Krause" class="headshot-right">
 
   <p>
     I am Assistant Professor of Digital Systems and International Affairs at the Georgia Institute of Technology’s Sam Nunn School.
