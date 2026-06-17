@@ -7,7 +7,7 @@ title: Home
   <img src="{{ '/assets/img/Warm_alt_front.png' | relative_url }}" alt="Juljan Krause" class="headshot-right">
 
   <p>
-    I am Assistant Professor of Digital Systems and International Affairs at the Georgia Institute of Technology’s Sam Nunn School.
+    I am an Assistant Professor of Digital Systems and International Affairs at the Georgia Institute of Technology’s Sam Nunn School.
   </p>
 
   <p>
