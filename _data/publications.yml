@@ -1,10 +1,5 @@
 working_papers:
 - year: 2026
-  authors: Juljan Krause
-  title: 'Salt Typhoon and the Limits of “Quantum Security” Promises'
-  citation: 'Juljan Krause, “Salt Typhoon and the Limits of ‘Quantum Security.’” Minor revisions.'
-
-- year: 2026
   authors: Juljan Krause and Spenser A. Warren and Kimberly Peh
   title: 'Technological Capacity, Perceptions, and the Strategic Impact of Emerging Technology'
   citation: 'Juljan Krause, Spenser A. Warren, and Kimberly Peh, “Technological Capacity, Perceptions, and the Strategic Impact of Emerging Technology.” Under review.'
@@ -30,6 +25,12 @@ working_papers:
   citation: 'Juljan Krause, “Modelling Quantum Advantage in Large-Scale APT-Centric Infrastructure Attacks.” In progress.'
 
 journal_articles:
+- year: 2026
+  authors: Juljan Krause
+  title: Salt Typhoon and the Limits of “Quantum Security”: A Technique-Level Audit
+  citation: 'Juljan Krause, “Salt Typhoon and the Limits of “Quantum Security”: A Technique-Level Audit,” <em>IEEE Security and Privacy</em> X, no. X (2026, early access): 2&ndash;12.'
+  doi: 10.1109/MSEC.2026.3688536
+  link_label: PDF 
 - year: 2012
   authors: Juljan Krause
   title: (Post)Enlightened Science
