@@ -71,6 +71,12 @@ book_chapters:
   citation: 'Juljan Krause and Markus Scholz, “Erosion of Sovereign Control: Deliberation, ‘We-Reasoning,’ and the Legitimacy of Norms and Standards in a Globalized World,” in <em>Understanding Ethics and Responsibilities in a Globalizing World</em>, ed. Maria Cecilia Coutinho de Arruda and Boleslaw Rok (Cham: Springer International Publishing, 2016), 83&ndash;101.'
   doi: 10.1007/978-3-319-23081-8_5
 policy_reports:
+- year: 2026
+  authors: Juljan Krause
+  title: 'Collaboration and Its Limits: Axis Partnerships in Emerging Technologies'
+  citation: 'Juljan Krause, <em>Collaboration and Its Limits: Axis Partnerships in Emerging Technologies</em> (Washington, DC: Government Briefing paper, 2026).'
+  url: https://juljankrause.com/assets/AXIS_JKrause_MAINDOC.pdf
+  link_label: PDF
 - year: 2024
   authors: Juljan Krause
   title: 'The Quantum Race: U.S.-Chinese Competition for Leadership in Quantum Technologies'
