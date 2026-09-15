@@ -52,7 +52,9 @@ book_chapters:
   authors: Juljan Krause
   title: 'Aesthetics of Computer Science'
   citation: 'Juljan Krause, “Aesthetics of Computer Science,” in <em>Aesthetics as a Companion Discipline</em>, edited by Zoltan Somhegyi and Max Ryynänen (New York: Bloomsbury, 2026 [forthcoming]).'
-  doi: TBA
+  # doi: TBA
+  url: "https://www.bloomsbury.com/us/accompanying-aesthetics-9798765161715/"
+  link_label: PDF
 - year: 2025
   authors: Juljan Krause
   title: 'Assessing Emerging Capabilities with Patent Data: U.S.-China Competition in Quantum Technologies'
