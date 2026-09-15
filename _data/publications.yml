@@ -6,18 +6,18 @@ working_papers:
 
 - year: 2026
   authors: Juljan Krause and Nicolas Wittstock
-  title: 'Varieties of Technological Sovereignty?'
-  citation: 'Juljan Krause & Nicolas Wittstock, “Varieties of Technological Sovereignty?.” In progress.'
+  title: 'Sovereign But How? Divergent Logics of Technological Sovereignty in the UK and Germany'
+  citation: 'Juljan Krause & Nicolas Wittstock, “Sovereign But How? Divergent Logics of Technological Sovereignty in the UK and Germany.” In progress.'
 
 - year: 2026
   authors: Juljan Krause
-  title: 'From Cloud to Qubit: How Cloud Service Providers Shape the Knowledge Foundations of the Quantum Internet'
-  citation: 'Juljan Krause, “From Cloud to Qubit: How Cloud Service Providers Shape the Knowledge Foundations of the Quantum Internet.” In progress.'
+  title: 'Before the Chokepoint: Hyperscaler Embeddedness in Emerging Quantum Network Infrastructure'
+  citation: 'Juljan Krause, “Before the Chokepoint: Hyperscaler Embeddedness in Emerging Quantum Network Infrastructure.” In progress.'
 
 - year: 2026
   authors: Juljan Krause
-  title: 'Anticipatory Governance and Capacity Signalling in National Quantum Strategies'
-  citation: 'Juljan Krause, “Anticipatory Governance and Capacity Signalling in National Quantum Strategies.” In progress.'
+  title: '“Statecraft Before Capability: Aspirational Security and State Competition over Not-Yet Technologies'
+  citation: 'Juljan Krause, ““Statecraft Before Capability: Aspirational Security and State Competition over Not-Yet Technologies.” In progress.'
 
 - year: 2026
   authors: Juljan Krause
@@ -27,8 +27,14 @@ working_papers:
 journal_articles:
 - year: 2026
   authors: Juljan Krause
+  title: 'Quantum won’t protect critical telecom networks from massive attacks. Good old maintenance might'
+  citation: 'Juljan Krause, “Quantum won’t protect critical telecom networks from massive attacks. Good old maintenance might,” <em>Bulletin of the Atomic Scientists</em> Vol. 82, No. 5 (2026, open access): 361&ndash;368.'
+  doi: 0.1080/00963402.2026.2718010
+  link_label: PDF 
+- year: 2026
+  authors: Juljan Krause
   title: 'Salt Typhoon and the Limits of “Quantum Security”: A Technique-Level Audit'
-  citation: 'Juljan Krause, “Salt Typhoon and the Limits of “Quantum Security”: A Technique-Level Audit,” <em>IEEE Security and Privacy</em> X, no. X (2026, open access): 2&ndash;12.'
+  citation: 'Juljan Krause, “Salt Typhoon and the Limits of “Quantum Security”: A Technique-Level Audit,” <em>IEEE Security and Privacy</em> Vol. 24, No. 4 (2026, open access): 59&ndash;69.'
   doi: 10.1109/MSEC.2026.3688536
   link_label: PDF 
 - year: 2012
