@@ -20,7 +20,7 @@ title: Home
 
   <p class="homepage-meta">
   <strong>Book Project</strong>: <em>Qubits &amp; Conflicts: The Geopolitics of the Quantum Internet</em> (working title).<br>
-  <strong>Teaching</strong> (Spring 2026): INTA 4050, International Affairs and Technology Policy Making.<br>
+  <strong>Teaching</strong> (Fall 2026): INTA 2040, International Affairs, Science, and Technology.<br>
   <strong>Contact</strong>: <a href="mailto:jkrause@gatech.edu">jkrause@gatech.edu</a> | Habersham 315
 </p>
 </div>
